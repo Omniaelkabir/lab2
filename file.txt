@@ -1,0 +1,7 @@
+to remove branch local use :
+git branch -d dev 
+git branch -d test 
+
+to delete branch remote use: 
+git push origin :dev
+git push origin :test
